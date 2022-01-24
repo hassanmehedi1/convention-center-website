@@ -10,8 +10,22 @@ body{
    color: #ff136f;
 }
 
-/* .btn-package{
-   background-color: #ff136f;
-   color: white;
 
-} */
+
+/* Footer  */
+footer{
+   text-align: center;
+   background-color: #0a0826;
+   padding: 50px 30px;
+   color: white;
+   width: 100%;
+   position: relative;
+}
+footer h2{
+   font-weight: 500;
+   margin: 0;
+}
+footer h5, p{
+   font-weight: 200;
+   margin: 0;
+   color: gray;
