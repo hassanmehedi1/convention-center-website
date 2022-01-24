@@ -6,10 +6,6 @@ body{
    font-family: 'Ubuntu', sans-serif;
 }
 
-.slider-text{
-   color: #ff136f;
-}
-
 
 
 /* Footer  */
@@ -21,11 +17,3 @@ footer{
    width: 100%;
    position: relative;
 }
-footer h2{
-   font-weight: 500;
-   margin: 0;
-}
-footer h5, p{
-   font-weight: 200;
-   margin: 0;
-   color: gray;
